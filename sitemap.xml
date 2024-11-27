@@ -218,6 +218,26 @@
   </url>
   
   <url>
+    <loc>https://lorenzo-perini.github.io/thesis/5year/second/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/5year/third/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/5year/first/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lorenzo-perini.github.io/tags/multi-armed-bandit/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url>
@@ -235,6 +255,16 @@
   <url>
     <loc>https://lorenzo-perini.github.io/publication/aaai22/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/4year/second/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/4year/first/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -285,6 +315,21 @@
   <url>
     <loc>https://lorenzo-perini.github.io/award/sb_fellowship/</loc>
     <lastmod>2021-02-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/3year/second/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/3year/third/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lorenzo-perini.github.io/thesis/3year/first/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -348,51 +393,22 @@
   </url>
   
   <url>
-    <loc>https://lorenzo-perini.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/1year/</loc>
-  </url>
-  
-  <url>
     <loc>https://lorenzo-perini.github.io/thesis/2year/first/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lorenzo-perini.github.io/thesis/2year/second/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lorenzo-perini.github.io/thesis/3year/second/</loc>
+    <loc>https://lorenzo-perini.github.io/thesis/1year/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lorenzo-perini.github.io/thesis/3year/third/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/3year/first/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/4year/second/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/4year/first/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/5year/second/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/5year/third/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/5year/first/</loc>
+    <loc>https://lorenzo-perini.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -437,10 +453,6 @@
   
   <url>
     <loc>https://lorenzo-perini.github.io/reviewer/sdm/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lorenzo-perini.github.io/thesis/</loc>
   </url>
   
 </urlset>

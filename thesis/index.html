@@ -123,7 +123,7 @@
   <meta property="og:description" content="Research Scientist @ Meta"><meta property="og:image" content="https://lorenzo-perini.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://lorenzo-perini.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    
+    <meta property="og:updated_time" content="2023-01-01T00:00:00&#43;00:00">
   
 
   
@@ -338,35 +338,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#courses"><span>Teaching Assistant</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#thesis"><span>Thesis Advisor</span></a>
         </li>
 
@@ -426,35 +397,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#reviewer"><span>Program Committee</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -524,71 +466,91 @@
   
   
   <div>
-    <h2><a href="/thesis/1year/">[2019/2020] Designing a Stability Metric for Assessing the Robustness of Anomaly Rankings</a></h2>
+    <h2><a href="/thesis/5year/second/">Better be cautious when asking hard questions! Developing an active learning strategy for semi-supervised models with rejection.</a></h2>
     <div class="article-style">
+      
+      This thesis explores a novel active learning strategy for deep semi-supervised models with rejection, addressing classification tasks where mispredictions carry severe consequences and labeled data are scarce. By integrating active learning, semi-supervised learning, and learning with rejection, the proposed approach enables models to reject uncertain predictions and learn effectively from unlabeled data. The primary challenge lies in adapting active learning to models with rejection, as traditional strategies focus solely on improving predictive accuracy without accounting for the need to identify rejectable instances. To address this, the proposed strategy dynamically balances two complementary approaches. The first employs a cost-based framework to select data points likely to reduce the overall cost of mispredictions and rejections. The second approach mitigates sampling bias to enhance the robustness of the active learning process. Extensive experiments on five real-world datasets demonstrate the strategy’s effectiveness, achieving better and more robust performance compared to uncertainty sampling and random sampling baselines across various scenarios. These results underscore the potential of the proposed strategy to improve the efficiency and reliability of deep semi-supervised models with rejection.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/2year/first/">[2020/2021] Do you know the answer? Taking into account the user uncertainty in active learning</a></h2>
+    <h2><a href="/thesis/5year/third/">It may not be wrong but is definitely more anomalous than the others! Anomaly Detection with User Feedback Ranking</a></h2>
     <div class="article-style">
+      
+      This thesis investigates a novel approach for data acquisition in anomaly detection, a critical field in machine learning focused on identifying unusual patterns in datasets. The goal is to develop a semi-supervised anomaly detection model that learns from pairwise ranked data, thereby simplifying the expert’s labeling process. By combining semi-supervised anomaly detection with supervised learning techniques from the learning-to-rank domain, the proposed method, SSPS, is tested on various benchmark datasets to evaluate its predictive performance. The results demonstrate that SSPS competes with state-of-the-art learning-to-rank algorithms applied to anomaly detection tasks, outperforming them on datasets where supervised learning struggles. This research suggests that ranking-based learning could offer a promising alternative for anomaly detection, particularly in scenarios where normal data points can be ranked relative to each other, such as credit card fraud detection and machine failure. The findings lay the groundwork for future research in semi-supervised pairwise anomaly detection as pairwise anomaly datasets become available.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/2year/second/">[2020/2021] Reliability measure in the Active Learning querying phase</a></h2>
+    <h2><a href="/thesis/5year/first/">What do slot machines have in common with Active Learning? Finding the high-reward instances in Multi-Instance Learning.</a></h2>
     <div class="article-style">
+      
+      Anomaly detection aims to identify unexpected events, known as anomalies, that deviate from normal behavior and often represent critical occurrences. While typically addressed in an unsupervised manner, anomaly detection can benefit from weak supervision to reduce labeling costs. Multi-Instance Learning (MIL) provides a framework for weakly supervised anomaly detection by organizing data into labeled sets (bags) of instances, where a bag is anomalous if at least one instance is anomalous. In scenarios where labels are expensive, Active Learning strategies can optimize instance selection for labeling. However, standard strategies may be suboptimal in MIL settings due to varying distributions across bags. To address this, we propose the Aligning Multi-Instance Bandits (AMIB) method, which aligns normal instances across bags to follow a common distribution. AMIB combines a Multi-Armed Bandits approach for bag selection with Uncertainty Sampling for instance querying. Experimental results indicate that AMIB competes with standard Active Learning strategies at the instance level, particularly when anomalous instances overlap with normal ones across bags. However, at the bag level, AMIB demonstrates poor performance, yielding results comparable to a random classifier. These findings highlight AMIB's potential and limitations, offering insights for further research in MIL-based Active Learning for anomaly detection.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/3year/second/">[2021/2022] Adaptive semi-supervised anomaly detection with any unsupervised prior</a></h2>
+    <h2><a href="/thesis/4year/second/">It is likely not to be so likely! Semi-supervised calibration of anomaly scores</a></h2>
     <div class="article-style">
+      
+      Anomaly detection models often rely on anomaly scores to make predictions, but these scores are difficult to interpret and compare, making it challenging to derive confidence in predictions. To address this, anomaly scores can be transformed into calibrated probabilities through a calibration map. While traditional calibration methods require labeled data, this reliance conflicts with the largely unsupervised nature of anomaly detection. This work introduces a novel semi-supervised calibration method that bridges this gap by combining two approaches. The first approach uses statistical insights to define the likely region of a good calibration map, minimizing the area where accurate predictions may reside. The second approach augments the limited labeled data by generating additional pseudo-labels for unlabeled items, enabling the application of supervised calibration techniques. The final method integrates these approaches, adjusting the calibration map from the second approach to fit within the boundaries set by the first. Evaluations on 15 anomaly score sets from various models and benchmark datasets reveal that while the proposed method does not consistently outperform existing calibration methods, it provides valuable insights into semi-supervised calibration. These approaches, individually or combined, form a solid foundation for advancing the calibration of anomaly scores in future research.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/3year/third/">[2021/2022] Practice makes perfect? Detecting anomalies by learning from imperfect user’s feedback</a></h2>
+    <h2><a href="/thesis/4year/first/">This is critical and a lot is at stake. How can I trust the model? Quantifying the model uncertainty in anomaly detection</a></h2>
     <div class="article-style">
+      
+      Anomaly detection involves identifying instances in data that deviate from expected patterns, typically by assigning anomaly scores to measure deviation. These scores, combined with thresholds, determine labels. However, the diverse scoring approaches used in current algorithms can hinder interpretability and reduce user trust in critical decisions. ExCeeD, the current state-of-the-art method for quantifying confidence in anomaly detection, has notable limitations: it depends on the true proportion of anomalies in the dataset and uses a discrete mapping of anomaly scores to confidence intervals. This thesis introduces the Lismont method, a novel approach to quantify confidence in anomaly detection. Unlike ExCeeD, the Lismont method calculates continuous confidence values without relying on the dataset’s true anomaly proportion. Additionally, we propose a new metric to evaluate the continuity of confidence methods. Experimental results demonstrate that the Lismont method improves performance over ExCeeD across various scenarios, offering enhanced confidence quantification and greater interpretability in anomaly detection tasks.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/3year/first/">[2021/2022] To ask or to abstain, what is the best strategy? Finding the best trade-off between Active Learning and Learning to Reject</a></h2>
+    <h2><a href="/thesis/3year/second/">Adaptive semi-supervised anomaly detection with any unsupervised prior</a></h2>
     <div class="article-style">
+      
+      Detecting abnormal behaviors in real-world applications is critical for preventing dangerous situations. While anomaly detection has traditionally been treated as an unsupervised learning task due to the scarcity and cost of labeled data, the availability of limited labels has spurred the development of semi-supervised models that significantly enhance performance. Among these, tree-based models are a promising but underexplored approach due to the challenge of integrating labeled and unlabeled data during tree construction. This work introduces a novel semi-supervised tree-based model that leverages both labeled and unlabeled data to effectively partition the feature space, distinguishing normal samples from anomalies. The proposed method is evaluated on multiple benchmark datasets and compared against state-of-the-art algorithms. Results demonstrate that the model consistently outperforms unsupervised and semi-supervised baselines, highlighting its potential for robust anomaly detection in semi-supervised scenarios.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/4year/second/">[2022/2023] It is likely not to be so likely! Semi-supervised calibration of anomaly scores</a></h2>
+    <h2><a href="/thesis/3year/third/">Practice makes perfect? Detecting anomalies by learning from imperfect user’s feedback</a></h2>
     <div class="article-style">
+      
+      Anomaly detection is a machine learning task in which the goal is to detect the outliers in a given data set. In real-life applications, one usually has a label budget because collecting labels can be costly. This is where semi-supervised anomaly detection models come in. They are able to learn from a limited labeled data set and a larger set of unlabeled data. However, they usually assume only correct labels, but labeling data can be a very challenging task. Due to the small set of labeled data, noisy labels can have a detrimental effect on the model's accuracy. We introduce a new setting in which the human annotator is asked to provide a confidence score along with her labels. Subsequently, we propose a novel semi-supervised anomaly detection model that incorporates these confidence scores to become more robust against noisy labels. By simulating a human annotator, we can compare our model against the state of the art on multiple benchmark data sets. We find empirical evidence for the robustness of our model, but have to conclude that it lacks other desired properties such as, e.g. the speed at which it learns
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/4year/first/">[2022/2023] This is critical and a lot is at stake. How can I trust the model? Quantifying the model uncertainty in anomaly detection</a></h2>
+    <h2><a href="/thesis/3year/first/">To ask or to abstain, what is the best strategy? Finding the best trade-off between Active Learning and Learning to Reject</a></h2>
     <div class="article-style">
+      
+      The challenge of abstaining from uncertain predictions has gained significant attention in recent years. While the introduction of a reject option has been explored in supervised learning, its application in anomaly detection—a domain with limited labels and high costs for misclassification—remains unexplored. This work proposes a novel framework enabling anomaly detectors to abstain from uncertain predictions in both unsupervised and semi-supervised scenarios. The approach leverages a dependent rejector based on model confidence, making it adaptable to various anomaly detection methods. In the unsupervised setting, a natural threshold is used for rejection, whereas in the semi-supervised case, the threshold is optimized using labeled data to minimize overall costs. Additionally, cosine distance is employed to measure the reward of using labels for either Active Learning or Learning to Reject, balancing their trade-offs. Experiments on a benchmark of nine anomaly detection datasets demonstrate the framework’s effectiveness, showing significant improvements in rejecting high-cost misclassifications. The proposed framework, integrating rejection, outperforms standard Active Learning approaches in both unsupervised and semi-supervised settings, reducing risk and enhancing reliability.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/5year/second/">[2023/2024] Better be cautious when asking hard questions! Developing an active learning strategy for semi-supervised models with rejection.</a></h2>
+    <h2><a href="/thesis/2year/first/">Do you know the answer? Taking into account the user uncertainty in active learning</a></h2>
     <div class="article-style">
+      
+      Anomaly detection identifies patterns in datasets that deviate from expected behavior, often indicating issues such as fraud, accidents, or intrusions. Due to the size of modern datasets, manual inspection is impractical, necessitating automated methods. This thesis explores anomaly detection using active learning, where a human expert provides annotations for selected data points. Existing methods assume experts can always assign correct labels, but this is unrealistic in practice. We propose a weaker assumption, allowing experts to express uncertainty when unsure about a label, reducing reliance on omniscient annotations. Our approach avoids overly difficult queries by estimating their difficulty and incorporating this estimate into the querying process alongside model uncertainty. Through experiments, we evaluate methods to estimate expert uncertainty, optimize query strategies, and minimize unnecessary queries. To address the lack of datasets with expert uncertainty, we modeled uncertainty on existing anomaly datasets, enabling an evaluation of the proposed framework.
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/thesis/5year/third/">[2023/2024] It may not be wrong but is definitely more anomalous than the others! Anomaly Detection with User Feedback Ranking</a></h2>
+    <h2><a href="/thesis/2year/second/">Reliability measure in the Active Learning querying phase</a></h2>
     <div class="article-style">
+      
+      This thesis investigates the application of active learning in anomaly detection, with a focus on the impact of dataset perturbations on query selection. Specifically, we examine the probability of querying a data point x when the dataset is slightly altered. This probability, termed the reliability measure, distinguishes data points that provide meaningful insights into the underlying data distribution from those queried due to unique dataset-specific characteristics. By estimating this probability, we can refine query selection to align more closely with the true data distribution rather than dataset-specific anomalies. The reliability measure also enhances the calibration and interpretability of informativeness scores used in active learning strategies. In the second part of the thesis, we explore combining active learning strategies by leveraging their reliability measures. This approach integrates the assumptions underlying the input strategies, though we find that combining assumptions does not always produce a superior strategy. The proposed framework provides a new perspective on optimizing active learning in anomaly detection through reliability-informed strategies.
       
     </div>
   </div>

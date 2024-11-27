@@ -77,6 +77,30 @@
     </item>
     
     <item>
+      <title>Better be cautious when asking hard questions! Developing an active learning strategy for semi-supervised models with rejection.</title>
+      <link>https://lorenzo-perini.github.io/thesis/5year/second/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/5year/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It may not be wrong but is definitely more anomalous than the others! Anomaly Detection with User Feedback Ranking</title>
+      <link>https://lorenzo-perini.github.io/thesis/5year/third/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/5year/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do slot machines have in common with Active Learning? Finding the high-reward instances in Multi-Instance Learning.</title>
+      <link>https://lorenzo-perini.github.io/thesis/5year/first/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/5year/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-domain Active Learning for Semi-supervised Anomaly Detection</title>
       <link>https://lorenzo-perini.github.io/publication/ecml2022/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
@@ -89,6 +113,22 @@
       <link>https://lorenzo-perini.github.io/publication/aaai22/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://lorenzo-perini.github.io/publication/aaai22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It is likely not to be so likely! Semi-supervised calibration of anomaly scores</title>
+      <link>https://lorenzo-perini.github.io/thesis/4year/second/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/4year/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is critical and a lot is at stake. How can I trust the model? Quantifying the model uncertainty in anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/thesis/4year/first/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/4year/first/</guid>
       <description></description>
     </item>
     
@@ -121,6 +161,30 @@
       <link>https://lorenzo-perini.github.io/award/sb_fellowship/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0100</pubDate>
       <guid>https://lorenzo-perini.github.io/award/sb_fellowship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive semi-supervised anomaly detection with any unsupervised prior</title>
+      <link>https://lorenzo-perini.github.io/thesis/3year/second/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/3year/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practice makes perfect? Detecting anomalies by learning from imperfect user’s feedback</title>
+      <link>https://lorenzo-perini.github.io/thesis/3year/third/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/3year/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To ask or to abstain, what is the best strategy? Finding the best trade-off between Active Learning and Learning to Reject</title>
+      <link>https://lorenzo-perini.github.io/thesis/3year/first/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/3year/first/</guid>
       <description></description>
     </item>
     
@@ -173,90 +237,26 @@
     </item>
     
     <item>
-      <title>[2019/2020] Designing a Stability Metric for Assessing the Robustness of Anomaly Rankings</title>
-      <link>https://lorenzo-perini.github.io/thesis/1year/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/1year/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2020/2021] Do you know the answer? Taking into account the user uncertainty in active learning</title>
+      <title>Do you know the answer? Taking into account the user uncertainty in active learning</title>
       <link>https://lorenzo-perini.github.io/thesis/2year/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lorenzo-perini.github.io/thesis/2year/first/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[2020/2021] Reliability measure in the Active Learning querying phase</title>
+      <title>Reliability measure in the Active Learning querying phase</title>
       <link>https://lorenzo-perini.github.io/thesis/2year/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lorenzo-perini.github.io/thesis/2year/second/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[2021/2022] Adaptive semi-supervised anomaly detection with any unsupervised prior</title>
-      <link>https://lorenzo-perini.github.io/thesis/3year/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/3year/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2021/2022] Practice makes perfect? Detecting anomalies by learning from imperfect user’s feedback</title>
-      <link>https://lorenzo-perini.github.io/thesis/3year/third/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/3year/third/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2021/2022] To ask or to abstain, what is the best strategy? Finding the best trade-off between Active Learning and Learning to Reject</title>
-      <link>https://lorenzo-perini.github.io/thesis/3year/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/3year/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2022/2023] It is likely not to be so likely! Semi-supervised calibration of anomaly scores</title>
-      <link>https://lorenzo-perini.github.io/thesis/4year/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/4year/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2022/2023] This is critical and a lot is at stake. How can I trust the model? Quantifying the model uncertainty in anomaly detection</title>
-      <link>https://lorenzo-perini.github.io/thesis/4year/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/4year/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2023/2024] Better be cautious when asking hard questions! Developing an active learning strategy for semi-supervised models with rejection.</title>
-      <link>https://lorenzo-perini.github.io/thesis/5year/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/5year/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2023/2024] It may not be wrong but is definitely more anomalous than the others! Anomaly Detection with User Feedback Ranking</title>
-      <link>https://lorenzo-perini.github.io/thesis/5year/third/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/5year/third/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[2023/2024] What do slot machines have in common with Active Learning? Finding the high-reward instances in Multi-Instance Learning.</title>
-      <link>https://lorenzo-perini.github.io/thesis/5year/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/thesis/5year/first/</guid>
+      <title>Designing a Stability Metric for Assessing the Robustness of Anomaly Rankings</title>
+      <link>https://lorenzo-perini.github.io/thesis/1year/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/thesis/1year/</guid>
       <description></description>
     </item>
     
