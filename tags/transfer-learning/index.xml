@@ -5,7 +5,7 @@
     <link>https://lorenzo-perini.github.io/tags/transfer-learning/</link>
       <atom:link href="https://lorenzo-perini.github.io/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Transfer Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Transfer Learning</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/phdthesis/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/phdthesis/</guid>
+      <link>https://lorenzo-perini.github.io/talk/phdthesis/</link>
+      <pubDate>Thu, 28 Mar 2024 14:30:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/talk/phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity</title>
-      <link>https://lorenzo-perini.github.io/publication/aaai22/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/aaai22/</guid>
+      <title>Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity @ AAAI22</title>
+      <link>https://lorenzo-perini.github.io/talk/aaai22/</link>
+      <pubDate>Fri, 25 Feb 2022 18:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/talk/aaai22/</guid>
       <description></description>
     </item>
     

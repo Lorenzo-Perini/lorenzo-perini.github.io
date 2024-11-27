@@ -5,7 +5,7 @@
     <link>https://lorenzo-perini.github.io/tags/uncertainty-quantification/</link>
       <atom:link href="https://lorenzo-perini.github.io/tags/uncertainty-quantification/index.xml" rel="self" type="application/rss+xml" />
     <description>Uncertainty Quantification</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Uncertainty Quantification</title>
@@ -14,14 +14,14 @@
     
     <item>
       <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/phdthesis/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/phdthesis/</guid>
+      <link>https://lorenzo-perini.github.io/talk/phdthesis/</link>
+      <pubDate>Thu, 28 Mar 2024 14:30:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/talk/phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection</title>
+      <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection @ AAAI23</title>
       <link>https://lorenzo-perini.github.io/talk/aaai/</link>
       <pubDate>Mon, 13 Feb 2023 13:30:00 +0100</pubDate>
       <guid>https://lorenzo-perini.github.io/talk/aaai/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions</title>
+      <title>Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions @ Polito</title>
       <link>https://lorenzo-perini.github.io/talk/polito/</link>
       <pubDate>Mon, 01 Mar 2021 17:30:00 +0100</pubDate>
       <guid>https://lorenzo-perini.github.io/talk/polito/</guid>

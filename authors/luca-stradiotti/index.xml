@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Luca Stradiotti | Lorenzo Perini</title>
+    <link>https://lorenzo-perini.github.io/authors/luca-stradiotti/</link>
+      <atom:link href="https://lorenzo-perini.github.io/authors/luca-stradiotti/index.xml" rel="self" type="application/rss+xml" />
+    <description> Luca Stradiotti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
+      <title> Luca Stradiotti</title>
+      <link>https://lorenzo-perini.github.io/authors/luca-stradiotti/</link>
+    </image>
+    
+    <item>
+      <title>Combining Active Learning and Learning to Reject for Anomaly Detection</title>
+      <link>https://lorenzo-perini.github.io/publication/stradiotti2024combining/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/stradiotti2024combining/</guid>
+      <description>&lt;p&gt;Summary about Combining Active Learning and Learning to Reject for Anomaly Detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Isolation Forest for Anomaly Detection</title>
+      <link>https://lorenzo-perini.github.io/publication/stradiotti2024semi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/stradiotti2024semi/</guid>
+      <description>&lt;p&gt;Summary about Semi-Supervised Isolation Forest for Anomaly Detection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

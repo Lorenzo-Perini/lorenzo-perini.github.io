@@ -1,95 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesse Davis | Lorenzo Perini</title>
+    <title> Jesse Davis | Lorenzo Perini</title>
     <link>https://lorenzo-perini.github.io/authors/jesse-davis/</link>
       <atom:link href="https://lorenzo-perini.github.io/authors/jesse-davis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jesse Davis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <description> Jesse Davis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
-      <title>Jesse Davis</title>
+      <title> Jesse Davis</title>
       <link>https://lorenzo-perini.github.io/authors/jesse-davis/</link>
     </image>
     
     <item>
-      <title>Machine Learning with a Reject Option: A survey</title>
-      <link>https://lorenzo-perini.github.io/publication/mach_rejection/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/mach_rejection/</guid>
-      <description></description>
+      <title>Combining Active Learning and Learning to Reject for Anomaly Detection</title>
+      <link>https://lorenzo-perini.github.io/publication/stradiotti2024combining/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/stradiotti2024combining/</guid>
+      <description>&lt;p&gt;Summary about Combining Active Learning and Learning to Reject for Anomaly Detection.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Unsupervised Anomaly Detection with Rejection</title>
-      <link>https://lorenzo-perini.github.io/publication/neurips23/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/neurips23/</guid>
-      <description></description>
+      <title>Deep neural network benchmarks for selective classification</title>
+      <link>https://lorenzo-perini.github.io/publication/pugnana2024deep/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/pugnana2024deep/</guid>
+      <description>&lt;p&gt;Summary about Deep neural network benchmarks for selective classification.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Detecting Evasion Attacks in Deployed Tree Ensembles</title>
-      <link>https://lorenzo-perini.github.io/publication/ecml2023a/</link>
-      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/ecml2023a/</guid>
-      <description></description>
+      <title>Machine learning with a reject option: A survey</title>
+      <link>https://lorenzo-perini.github.io/publication/hendrickx2024machine/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/hendrickx2024machine/</guid>
+      <description>&lt;p&gt;Summary about Machine learning with a reject option: A survey.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Semi-Supervised Learning from Active Noisy Soft Labels for Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/ecml2023b/</link>
-      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/ecml2023b/</guid>
-      <description></description>
+      <title>Semi-Supervised Isolation Forest for Anomaly Detection</title>
+      <link>https://lorenzo-perini.github.io/publication/stradiotti2024semi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/stradiotti2024semi/</guid>
+      <description>&lt;p&gt;Summary about Semi-Supervised Isolation Forest for Anomaly Detection.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Learning from Positive and Unlabeled Multi-Instance Bags in Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/kdd23/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/kdd23/</guid>
-      <description></description>
+      <title>Unsupervised anomaly detection with rejection</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2024unsupervised/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2024unsupervised/</guid>
+      <description>&lt;p&gt;Summary about Unsupervised anomaly detection with rejection.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Multi-domain Active Learning for Semi-supervised Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/ecml2022/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/ecml2022/</guid>
-      <description></description>
+      <title>Detecting evasion attacks in deployed tree ensembles</title>
+      <link>https://lorenzo-perini.github.io/publication/devos2023detecting/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/devos2023detecting/</guid>
+      <description>&lt;p&gt;Summary about Detecting evasion attacks in deployed tree ensembles.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity</title>
-      <link>https://lorenzo-perini.github.io/publication/aaai22/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/aaai22/</guid>
-      <description></description>
+      <title>How to allocate your label budget? choosing between active learning and learning to reject in anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2023allocate/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2023allocate/</guid>
+      <description>&lt;p&gt;Summary about How to allocate your label budget? choosing between active learning and learning to reject in anomaly detection.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Effect of Hyperparameter Tuning on the Comparative Evaluation of Unsupervised Anomaly Detection Methods</title>
-      <link>https://lorenzo-perini.github.io/publication/odd21/</link>
-      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/odd21/</guid>
-      <description></description>
+      <title>Learning from positive and unlabeled multi-instance bags in anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2023learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2023learning/</guid>
+      <description>&lt;p&gt;Summary about Learning from positive and unlabeled multi-instance bags in anomaly detection.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions</title>
-      <link>https://lorenzo-perini.github.io/publication/ecml20/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/ecml20/</guid>
-      <description></description>
+      <title>Semi-supervised learning from active noisy soft labels for anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/martens2023semi/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/martens2023semi/</guid>
+      <description>&lt;p&gt;Summary about Semi-supervised learning from active noisy soft labels for anomaly detection.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Class Prior Estimation in Active Positive and Unlabeled Learning</title>
-      <link>https://lorenzo-perini.github.io/publication/ijcai20/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/ijcai20/</guid>
-      <description></description>
+      <title>Multi-domain active learning for semi-supervised anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/vercruyssen2022multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/vercruyssen2022multi/</guid>
+      <description>&lt;p&gt;Summary about Multi-domain active learning for semi-supervised anomaly detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transferring the contamination factor between anomaly detection domains by shape similarity</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2022transferring/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2022transferring/</guid>
+      <description>&lt;p&gt;Summary about Transferring the contamination factor between anomaly detection domains by shape similarity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The effect of hyperparameter tuning on the comparative evaluation of unsupervised anomaly detection methods</title>
+      <link>https://lorenzo-perini.github.io/publication/soenen2021effect/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/soenen2021effect/</guid>
+      <description>&lt;p&gt;Summary about The effect of hyperparameter tuning on the comparative evaluation of unsupervised anomaly detection methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class Prior Estimation in Active Positive and Unlabeled Learning.</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2020class/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2020class/</guid>
+      <description>&lt;p&gt;Summary about Class Prior Estimation in Active Positive and Unlabeled Learning..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the confidence of anomaly detectors in their example-wise predictions</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2020quantifying/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2020quantifying/</guid>
+      <description>&lt;p&gt;Summary about Quantifying the confidence of anomaly detectors in their example-wise predictions.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

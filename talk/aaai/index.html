@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Anomaly detection attempts at finding examples that deviate from the expected behaviour. Usually, anomaly detection is tackled from an unsupervised perspective because anomalous labels are rare and difficult to acquire. However, the lack of labels makes the anomaly detector have high uncertainty in some regions, which usually results in poor predictive performance or low user trust in the predictions. One can reduce such uncertainty by collecting specific labels using Active Learning (AL), which targets examples close to the detector&#39;s decision boundary. Alternatively, one can increase the user trust by allowing the detector to abstain from making highly uncertain predictions, which is called Learning to Reject (LR). One way to do this is by thresholding the detector&#39;s uncertainty based on where its performance is low, which requires labels to be evaluated. Although both AL and LR need labels, they work with different types of labels: AL seeks strategic labels, which are evidently biased, while LR requires i.i.d. labels to evaluate the detector&#39;s performance and set the rejection threshold. Because one usually has a unique label budget, deciding how to optimally allocate it is challenging. In this paper, we propose a mixed strategy that, given a budget of labels, decides in multiple rounds whether to use the budget to collect AL labels or LR labels. The strategy is based on a reward function that measures the expected gain when allocating the budget to either side. We evaluate our strategy on 18 benchmark datasets and compare it to some baselines.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://lorenzo-perini.github.io/talk/aaai/">
@@ -117,8 +117,8 @@
   
   <meta property="og:site_name" content="Lorenzo Perini">
   <meta property="og:url" content="https://lorenzo-perini.github.io/talk/aaai/">
-  <meta property="og:title" content="How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection | Lorenzo Perini">
-  <meta property="og:description" content=""><meta property="og:image" content="https://lorenzo-perini.github.io/img/icon-192.png">
+  <meta property="og:title" content="How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection @ AAAI23 | Lorenzo Perini">
+  <meta property="og:description" content="Anomaly detection attempts at finding examples that deviate from the expected behaviour. Usually, anomaly detection is tackled from an unsupervised perspective because anomalous labels are rare and difficult to acquire. However, the lack of labels makes the anomaly detector have high uncertainty in some regions, which usually results in poor predictive performance or low user trust in the predictions. One can reduce such uncertainty by collecting specific labels using Active Learning (AL), which targets examples close to the detector&#39;s decision boundary. Alternatively, one can increase the user trust by allowing the detector to abstain from making highly uncertain predictions, which is called Learning to Reject (LR). One way to do this is by thresholding the detector&#39;s uncertainty based on where its performance is low, which requires labels to be evaluated. Although both AL and LR need labels, they work with different types of labels: AL seeks strategic labels, which are evidently biased, while LR requires i.i.d. labels to evaluate the detector&#39;s performance and set the rejection threshold. Because one usually has a unique label budget, deciding how to optimally allocate it is challenging. In this paper, we propose a mixed strategy that, given a budget of labels, decides in multiple rounds whether to use the budget to collect AL labels or LR labels. The strategy is based on a reward function that measures the expected gain when allocating the budget to either side. We evaluate our strategy on 18 benchmark datasets and compare it to some baselines."><meta property="og:image" content="https://lorenzo-perini.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://lorenzo-perini.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -145,17 +145,15 @@
     "@type": "WebPage",
     "@id": "https://lorenzo-perini.github.io/talk/aaai/"
   },
-  "name": "How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection",
+  "name": "How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection @ AAAI23",
   
   "location": {
     "@type": "Place",
-    "name": "Washington DC"
+    "name": "Washington DC, USA"
   },
   
   
   "startDate": "2023-02-13T13:30:00+01:00",
-  
-  "endDate": "2023-02-13T13:45:00+01:00",
   
   
   "performer": {
@@ -163,7 +161,7 @@
     "name": "Lorenzo Perini"
   },
   
-  "description": ""
+  "description": "Anomaly detection attempts at finding examples that deviate from the expected behaviour. Usually, anomaly detection is tackled from an unsupervised perspective because anomalous labels are rare and difficult to acquire. However, the lack of labels makes the anomaly detector have high uncertainty in some regions, which usually results in poor predictive performance or low user trust in the predictions. One can reduce such uncertainty by collecting specific labels using Active Learning (AL), which targets examples close to the detector's decision boundary. Alternatively, one can increase the user trust by allowing the detector to abstain from making highly uncertain predictions, which is called Learning to Reject (LR). One way to do this is by thresholding the detector's uncertainty based on where its performance is low, which requires labels to be evaluated. Although both AL and LR need labels, they work with different types of labels: AL seeks strategic labels, which are evidently biased, while LR requires i.i.d. labels to evaluate the detector's performance and set the rejection threshold. Because one usually has a unique label budget, deciding how to optimally allocate it is challenging. In this paper, we propose a mixed strategy that, given a budget of labels, decides in multiple rounds whether to use the budget to collect AL labels or LR labels. The strategy is based on a reward function that measures the expected gain when allocating the budget to either side. We evaluate our strategy on 18 benchmark datasets and compare it to some baselines."
 }
 </script>
 
@@ -179,7 +177,7 @@
 
 
 
-  <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection | Lorenzo Perini</title>
+  <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection @ AAAI23 | Lorenzo Perini</title>
 
 </head>
 
@@ -490,7 +488,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection</h1>
+  <h1>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection @ AAAI23</h1>
 
   
 
@@ -596,7 +594,8 @@
   <div class="article-container">
 
     
-      <br>
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Anomaly detection attempts at finding examples that deviate from the expected behaviour. Usually, anomaly detection is tackled from an unsupervised perspective because anomalous labels are rare and difficult to acquire. However, the lack of labels makes the anomaly detector have high uncertainty in some regions, which usually results in poor predictive performance or low user trust in the predictions. One can reduce such uncertainty by collecting specific labels using Active Learning (AL), which targets examples close to the detector&rsquo;s decision boundary. Alternatively, one can increase the user trust by allowing the detector to abstain from making highly uncertain predictions, which is called Learning to Reject (LR). One way to do this is by thresholding the detector&rsquo;s uncertainty based on where its performance is low, which requires labels to be evaluated. Although both AL and LR need labels, they work with different types of labels: AL seeks strategic labels, which are evidently biased, while LR requires i.i.d. labels to evaluate the detector&rsquo;s performance and set the rejection threshold. Because one usually has a unique label budget, deciding how to optimally allocate it is challenging. In this paper, we propose a mixed strategy that, given a budget of labels, decides in multiple rounds whether to use the budget to collect AL labels or LR labels. The strategy is based on a reward function that measures the expected gain when allocating the budget to either side. We evaluate our strategy on 18 benchmark datasets and compare it to some baselines.</p>
     
 
     <div class="row">
@@ -605,7 +604,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-             13 Feb 2023, 13:30 &mdash; 13:45 CET
+             13 Feb 2023, 13:30
           </div>
         </div>
       </div>
@@ -637,7 +636,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Washington DC</div>
+          <div class="col-12 col-md-9">Washington DC, USA</div>
           
         </div>
       </div>
@@ -683,7 +682,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://lorenzo-perini.github.io/talk/aaai/&amp;text=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://lorenzo-perini.github.io/talk/aaai/&amp;text=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection%20@%20AAAI23" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -696,7 +695,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://lorenzo-perini.github.io/talk/aaai/&amp;t=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://lorenzo-perini.github.io/talk/aaai/&amp;t=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection%20@%20AAAI23" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -709,7 +708,7 @@
       
       
       <li>
-        <a href="mailto:?subject=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection&amp;body=https://lorenzo-perini.github.io/talk/aaai/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection%20@%20AAAI23&amp;body=https://lorenzo-perini.github.io/talk/aaai/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -722,7 +721,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://lorenzo-perini.github.io/talk/aaai/&amp;title=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://lorenzo-perini.github.io/talk/aaai/&amp;title=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection%20@%20AAAI23" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -735,7 +734,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection%20https://lorenzo-perini.github.io/talk/aaai/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection%20@%20AAAI23%20https://lorenzo-perini.github.io/talk/aaai/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -748,7 +747,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://lorenzo-perini.github.io/talk/aaai/&amp;title=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://lorenzo-perini.github.io/talk/aaai/&amp;title=How%20to%20Allocate%20your%20Label%20Budget?%20Choosing%20between%20Active%20Learning%20and%20Learning%20to%20Reject%20in%20Anomaly%20Detection%20@%20AAAI23" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -891,15 +890,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/talk/polito/">Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions</a></li>
+      <li><a href="/talk/polito/">Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions @ Polito</a></li>
       
-      <li><a href="/publication/ijcai20/">Class Prior Estimation in Active Positive and Unlabeled Learning</a></li>
+      <li><a href="/talk/ijcai20/">Class Prior Estimation in Active Positive and Unlabeled Learning @ IJCAI20</a></li>
       
-      <li><a href="/publication/ecml2022/">Multi-domain Active Learning for Semi-supervised Anomaly Detection</a></li>
+      <li><a href="/talk/aaai22/">Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity @ AAAI22</a></li>
       
-      <li><a href="/publication/aaai22/">Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity</a></li>
+      <li><a href="/talk/edml20/">A Ranking Stability Measure for Quantifying the Robustness of Anomaly Detection Methods @ ECML20</a></li>
       
-      <li><a href="/publication/odd21/">The Effect of Hyperparameter Tuning on the Comparative Evaluation of Unsupervised Anomaly Detection Methods</a></li>
+      <li><a href="/talk/ecml20/">Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions @ ECML20</a></li>
       
     </ul>
   </div>

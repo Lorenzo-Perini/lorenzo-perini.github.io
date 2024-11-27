@@ -5,7 +5,7 @@
     <link>https://lorenzo-perini.github.io/tags/learning-to-reject/</link>
       <atom:link href="https://lorenzo-perini.github.io/tags/learning-to-reject/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning to Reject</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Learning to Reject</title>
@@ -14,22 +14,22 @@
     
     <item>
       <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/phdthesis/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/phdthesis/</guid>
+      <link>https://lorenzo-perini.github.io/talk/phdthesis/</link>
+      <pubDate>Thu, 28 Mar 2024 14:30:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/talk/phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Unsupervised Anomaly Detection with Rejection</title>
-      <link>https://lorenzo-perini.github.io/publication/neurips23/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/neurips23/</guid>
+      <title>Unsupervised Anomaly Detection with Rejection @ NeurIPS23</title>
+      <link>https://lorenzo-perini.github.io/talk/neurips23/</link>
+      <pubDate>Thu, 14 Dec 2023 17:45:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/talk/neurips23/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection</title>
+      <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection @ AAAI23</title>
       <link>https://lorenzo-perini.github.io/talk/aaai/</link>
       <pubDate>Mon, 13 Feb 2023 13:30:00 +0100</pubDate>
       <guid>https://lorenzo-perini.github.io/talk/aaai/</guid>

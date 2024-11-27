@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Maja Rudolph | Lorenzo Perini</title>
+    <link>https://lorenzo-perini.github.io/authors/maja-rudolph/</link>
+      <atom:link href="https://lorenzo-perini.github.io/authors/maja-rudolph/index.xml" rel="self" type="application/rss+xml" />
+    <description> Maja Rudolph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
+      <title> Maja Rudolph</title>
+      <link>https://lorenzo-perini.github.io/authors/maja-rudolph/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty-aware Evaluation of Auxiliary Anomalies with the Expected Anomaly Posterior</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2024uncertainty/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2024uncertainty/</guid>
+      <description>&lt;p&gt;Summary about Uncertainty-aware Evaluation of Auxiliary Anomalies with the Expected Anomaly Posterior.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

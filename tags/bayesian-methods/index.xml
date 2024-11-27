@@ -5,7 +5,7 @@
     <link>https://lorenzo-perini.github.io/tags/bayesian-methods/</link>
       <atom:link href="https://lorenzo-perini.github.io/tags/bayesian-methods/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian Methods</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jul 2023 17:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Bayesian Methods</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/icml23/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/icml23/</guid>
+      <title>Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection @ ICML23</title>
+      <link>https://lorenzo-perini.github.io/talk/icml23/</link>
+      <pubDate>Wed, 26 Jul 2023 17:00:00 +0000</pubDate>
+      <guid>https://lorenzo-perini.github.io/talk/icml23/</guid>
       <description></description>
     </item>
     

@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paul-Christian Bürkner | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/paul-christian-burkner/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/authors/paul-christian-burkner/index.xml" rel="self" type="application/rss+xml" />
-    <description>Paul-Christian Bürkner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <title> Paul-Christian Bürkner | Lorenzo Perini</title>
+    <link>https://lorenzo-perini.github.io/authors/paul-christian-burkner/</link>
+      <atom:link href="https://lorenzo-perini.github.io/authors/paul-christian-burkner/index.xml" rel="self" type="application/rss+xml" />
+    <description> Paul-Christian Bürkner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
-      <title>Paul-Christian Bürkner</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/paul-christian-burkner/</link>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
+      <title> Paul-Christian Bürkner</title>
+      <link>https://lorenzo-perini.github.io/authors/paul-christian-burkner/</link>
     </image>
     
     <item>
-      <title>Estimating the Contamination Factor&#39;s Distribution in Unsupervised Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/aistats22/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/aistats22/</guid>
-      <description></description>
+      <title>Estimating the contamination factor’s distribution in unsupervised anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2023estimating/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2023estimating/</guid>
+      <description>&lt;p&gt;Summary about Estimating the contamination factor’s distribution in unsupervised anomaly detection.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

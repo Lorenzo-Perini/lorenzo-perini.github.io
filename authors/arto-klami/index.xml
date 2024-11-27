@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arto Klami | Lorenzo Perini</title>
+    <title> Arto Klami | Lorenzo Perini</title>
     <link>https://lorenzo-perini.github.io/authors/arto-klami/</link>
       <atom:link href="https://lorenzo-perini.github.io/authors/arto-klami/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arto Klami</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <description> Arto Klami</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
-      <title>Arto Klami</title>
+      <title> Arto Klami</title>
       <link>https://lorenzo-perini.github.io/authors/arto-klami/</link>
     </image>
     
     <item>
-      <title>Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/icml23/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/icml23/</guid>
-      <description></description>
+      <title>Estimating the contamination factor’s distribution in unsupervised anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2023estimating/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2023estimating/</guid>
+      <description>&lt;p&gt;Summary about Estimating the contamination factor’s distribution in unsupervised anomaly detection.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

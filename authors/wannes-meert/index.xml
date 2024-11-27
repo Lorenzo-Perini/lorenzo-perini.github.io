@@ -1,47 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wannes Meert | Lorenzo Perini</title>
+    <title> Wannes Meert | Lorenzo Perini</title>
     <link>https://lorenzo-perini.github.io/authors/wannes-meert/</link>
       <atom:link href="https://lorenzo-perini.github.io/authors/wannes-meert/index.xml" rel="self" type="application/rss+xml" />
-    <description>Wannes Meert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <description> Wannes Meert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
-      <title>Wannes Meert</title>
+      <title> Wannes Meert</title>
       <link>https://lorenzo-perini.github.io/authors/wannes-meert/</link>
     </image>
     
     <item>
-      <title>Machine Learning with a Reject Option: A survey</title>
-      <link>https://lorenzo-perini.github.io/publication/mach_rejection/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/mach_rejection/</guid>
-      <description></description>
+      <title>Machine learning with a reject option: A survey</title>
+      <link>https://lorenzo-perini.github.io/publication/hendrickx2024machine/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/hendrickx2024machine/</guid>
+      <description>&lt;p&gt;Summary about Machine learning with a reject option: A survey.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Detecting Evasion Attacks in Deployed Tree Ensembles</title>
-      <link>https://lorenzo-perini.github.io/publication/ecml2023a/</link>
-      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/ecml2023a/</guid>
-      <description></description>
+      <title>Detecting evasion attacks in deployed tree ensembles</title>
+      <link>https://lorenzo-perini.github.io/publication/devos2023detecting/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/devos2023detecting/</guid>
+      <description>&lt;p&gt;Summary about Detecting evasion attacks in deployed tree ensembles.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Multi-domain Active Learning for Semi-supervised Anomaly Detection</title>
-      <link>https://lorenzo-perini.github.io/publication/ecml2022/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/ecml2022/</guid>
-      <description></description>
+      <title>Multi-domain active learning for semi-supervised anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/vercruyssen2022multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/vercruyssen2022multi/</guid>
+      <description>&lt;p&gt;Summary about Multi-domain active learning for semi-supervised anomaly detection.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Effect of Hyperparameter Tuning on the Comparative Evaluation of Unsupervised Anomaly Detection Methods</title>
-      <link>https://lorenzo-perini.github.io/publication/odd21/</link>
-      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/odd21/</guid>
-      <description></description>
+      <title>The effect of hyperparameter tuning on the comparative evaluation of unsupervised anomaly detection methods</title>
+      <link>https://lorenzo-perini.github.io/publication/soenen2021effect/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/soenen2021effect/</guid>
+      <description>&lt;p&gt;Summary about The effect of hyperparameter tuning on the comparative evaluation of unsupervised anomaly detection methods.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

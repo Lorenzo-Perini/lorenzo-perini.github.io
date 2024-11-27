@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Connor Galvin | Lorenzo Perini</title>
+    <title> Connor Galvin | Lorenzo Perini</title>
     <link>https://lorenzo-perini.github.io/authors/connor-galvin/</link>
       <atom:link href="https://lorenzo-perini.github.io/authors/connor-galvin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Connor Galvin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <description> Connor Galvin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
-      <title>Connor Galvin</title>
+      <title> Connor Galvin</title>
       <link>https://lorenzo-perini.github.io/authors/connor-galvin/</link>
     </image>
     
     <item>
-      <title>A Ranking Stability Measure for Quantifying the Robustness of Anomaly Detection Methods</title>
-      <link>https://lorenzo-perini.github.io/publication/edml20/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://lorenzo-perini.github.io/publication/edml20/</guid>
-      <description></description>
+      <title>A ranking stability measure for quantifying the robustness of anomaly detection methods</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2020ranking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2020ranking/</guid>
+      <description>&lt;p&gt;Summary about A ranking stability measure for quantifying the robustness of anomaly detection methods.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

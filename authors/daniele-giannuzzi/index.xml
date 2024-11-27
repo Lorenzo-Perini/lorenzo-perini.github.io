@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniele Giannuzzi | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/daniele-giannuzzi/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/authors/daniele-giannuzzi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Daniele Giannuzzi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <title> Daniele Giannuzzi | Lorenzo Perini</title>
+    <link>https://lorenzo-perini.github.io/authors/daniele-giannuzzi/</link>
+      <atom:link href="https://lorenzo-perini.github.io/authors/daniele-giannuzzi/index.xml" rel="self" type="application/rss+xml" />
+    <description> Daniele Giannuzzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
-      <title>Daniele Giannuzzi</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/daniele-giannuzzi/</link>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
+      <title> Daniele Giannuzzi</title>
+      <link>https://lorenzo-perini.github.io/authors/daniele-giannuzzi/</link>
     </image>
     
     <item>
-      <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/udm23/</link>
-      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/udm23/</guid>
-      <description></description>
+      <title>How to allocate your label budget? choosing between active learning and learning to reject in anomaly detection</title>
+      <link>https://lorenzo-perini.github.io/publication/perini2023allocate/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://lorenzo-perini.github.io/publication/perini2023allocate/</guid>
+      <description>&lt;p&gt;Summary about How to allocate your label budget? choosing between active learning and learning to reject in anomaly detection.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
