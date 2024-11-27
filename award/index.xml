@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awards | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/award/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/award/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lorenzo-perini.github.io/award/</link>
+      <atom:link href="https://lorenzo-perini.github.io/award/index.xml" rel="self" type="application/rss+xml" />
     <description>Awards</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Awards</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/award/</link>
+      <link>https://lorenzo-perini.github.io/award/</link>
     </image>
     
     <item>
       <title>PhD Fellowship fundamental research (FWO)</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/award/fwo_fellowship/</link>
+      <link>https://lorenzo-perini.github.io/award/fwo_fellowship/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0100</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/award/fwo_fellowship/</guid>
+      <guid>https://lorenzo-perini.github.io/award/fwo_fellowship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scientific prize Gustave Boël-Sofina Fellowship</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/award/sb_fellowship/</link>
+      <link>https://lorenzo-perini.github.io/award/sb_fellowship/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0100</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/award/sb_fellowship/</guid>
+      <guid>https://lorenzo-perini.github.io/award/sb_fellowship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overall ECML-PKDD Engagement Award 2020</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/award/ecmlpkdd20/</link>
+      <link>https://lorenzo-perini.github.io/award/ecmlpkdd20/</link>
       <pubDate>Mon, 24 Aug 2020 10:11:16 +0200</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/award/ecmlpkdd20/</guid>
+      <guid>https://lorenzo-perini.github.io/award/ecmlpkdd20/</guid>
       <description></description>
     </item>
     

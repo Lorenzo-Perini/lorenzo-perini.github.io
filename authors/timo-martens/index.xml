@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timo Martens | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/timo-martens/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/authors/timo-martens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lorenzo-perini.github.io/authors/timo-martens/</link>
+      <atom:link href="https://lorenzo-perini.github.io/authors/timo-martens/index.xml" rel="self" type="application/rss+xml" />
     <description>Timo Martens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Timo Martens</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/timo-martens/</link>
+      <link>https://lorenzo-perini.github.io/authors/timo-martens/</link>
     </image>
     
     <item>
       <title>Semi-Supervised Learning from Active Noisy Soft Labels for Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2023b/</link>
+      <link>https://lorenzo-perini.github.io/publication/ecml2023b/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2023b/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ecml2023b/</guid>
       <description></description>
     </item>
     

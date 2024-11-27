@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Mining | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/tags/data-mining/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lorenzo-perini.github.io/tags/data-mining/</link>
+      <atom:link href="https://lorenzo-perini.github.io/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Mining</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Data Mining</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/tags/data-mining/</link>
+      <link>https://lorenzo-perini.github.io/tags/data-mining/</link>
     </image>
     
     <item>
       <title>The Effect of Hyperparameter Tuning on the Comparative Evaluation of Unsupervised Anomaly Detection Methods</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/odd21/</link>
+      <link>https://lorenzo-perini.github.io/publication/odd21/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/odd21/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/odd21/</guid>
       <description></description>
     </item>
     

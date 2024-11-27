@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis Advisor | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lorenzo-perini.github.io/thesis/</link>
+      <atom:link href="https://lorenzo-perini.github.io/thesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Thesis Advisor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Thesis Advisor</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/</link>
+      <link>https://lorenzo-perini.github.io/thesis/</link>
     </image>
     
     <item>
       <title>[2019/2020] Designing a Stability Metric for Assessing the Robustness of Anomaly Rankings</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/1year/</link>
+      <link>https://lorenzo-perini.github.io/thesis/1year/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/1year/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/1year/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2020/2021] Do you know the answer? Taking into account the user uncertainty in active learning</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/2year/first/</link>
+      <link>https://lorenzo-perini.github.io/thesis/2year/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/2year/first/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/2year/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2020/2021] Reliability measure in the Active Learning querying phase</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/2year/second/</link>
+      <link>https://lorenzo-perini.github.io/thesis/2year/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/2year/second/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/2year/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2021/2022] Adaptive semi-supervised anomaly detection with any unsupervised prior</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/3year/second/</link>
+      <link>https://lorenzo-perini.github.io/thesis/3year/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/3year/second/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/3year/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2021/2022] Practice makes perfect? Detecting anomalies by learning from imperfect user’s feedback</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/3year/third/</link>
+      <link>https://lorenzo-perini.github.io/thesis/3year/third/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/3year/third/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/3year/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2021/2022] To ask or to abstain, what is the best strategy? Finding the best trade-off between Active Learning and Learning to Reject</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/3year/first/</link>
+      <link>https://lorenzo-perini.github.io/thesis/3year/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/3year/first/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/3year/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2022/2023] It is likely not to be so likely! Semi-supervised calibration of anomaly scores</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/4year/second/</link>
+      <link>https://lorenzo-perini.github.io/thesis/4year/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/4year/second/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/4year/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2022/2023] This is critical and a lot is at stake. How can I trust the model? Quantifying the model uncertainty in anomaly detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/4year/first/</link>
+      <link>https://lorenzo-perini.github.io/thesis/4year/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/4year/first/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/4year/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2023/2024] Better be cautious when asking hard questions! Developing an active learning strategy for semi-supervised models with rejection.</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/5year/second/</link>
+      <link>https://lorenzo-perini.github.io/thesis/5year/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/5year/second/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/5year/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2023/2024] It may not be wrong but is definitely more anomalous than the others! Anomaly Detection with User Feedback Ranking</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/5year/third/</link>
+      <link>https://lorenzo-perini.github.io/thesis/5year/third/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/5year/third/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/5year/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[2023/2024] What do slot machines have in common with Active Learning? Finding the high-reward instances in Multi-Instance Learning.</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/5year/first/</link>
+      <link>https://lorenzo-perini.github.io/thesis/5year/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/thesis/5year/first/</guid>
+      <guid>https://lorenzo-perini.github.io/thesis/5year/first/</guid>
       <description></description>
     </item>
     

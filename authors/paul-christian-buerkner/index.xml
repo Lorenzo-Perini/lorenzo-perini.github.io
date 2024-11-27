@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul-Christian Buerkner | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/paul-christian-buerkner/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/authors/paul-christian-buerkner/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lorenzo-perini.github.io/authors/paul-christian-buerkner/</link>
+      <atom:link href="https://lorenzo-perini.github.io/authors/paul-christian-buerkner/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul-Christian Buerkner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Paul-Christian Buerkner</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/paul-christian-buerkner/</link>
+      <link>https://lorenzo-perini.github.io/authors/paul-christian-buerkner/</link>
     </image>
     
     <item>
       <title>Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/icml23/</link>
+      <link>https://lorenzo-perini.github.io/publication/icml23/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/icml23/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/icml23/</guid>
       <description></description>
     </item>
     

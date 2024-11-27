@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/lorenzo-perini/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/authors/lorenzo-perini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lorenzo-perini.github.io/authors/lorenzo-perini/</link>
+      <atom:link href="https://lorenzo-perini.github.io/authors/lorenzo-perini/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Perini</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Lorenzo Perini</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/authors/lorenzo-perini/</link>
+      <link>https://lorenzo-perini.github.io/authors/lorenzo-perini/</link>
     </image>
     
     <item>
       <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/phdthesis/</link>
+      <link>https://lorenzo-perini.github.io/publication/phdthesis/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/phdthesis/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning with a Reject Option: A survey</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/mach_rejection/</link>
+      <link>https://lorenzo-perini.github.io/publication/mach_rejection/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/mach_rejection/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/mach_rejection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Anomaly Detection with Rejection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/neurips23/</link>
+      <link>https://lorenzo-perini.github.io/publication/neurips23/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/neurips23/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/neurips23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting Evasion Attacks in Deployed Tree Ensembles</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2023a/</link>
+      <link>https://lorenzo-perini.github.io/publication/ecml2023a/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2023a/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ecml2023a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-Supervised Learning from Active Noisy Soft Labels for Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2023b/</link>
+      <link>https://lorenzo-perini.github.io/publication/ecml2023b/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2023b/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ecml2023b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning from Positive and Unlabeled Multi-Instance Bags in Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/kdd23/</link>
+      <link>https://lorenzo-perini.github.io/publication/kdd23/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/kdd23/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/kdd23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/icml23/</link>
+      <link>https://lorenzo-perini.github.io/publication/icml23/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/icml23/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/icml23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-domain Active Learning for Semi-supervised Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2022/</link>
+      <link>https://lorenzo-perini.github.io/publication/ecml2022/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2022/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ecml2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/aaai22/</link>
+      <link>https://lorenzo-perini.github.io/publication/aaai22/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/aaai22/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/aaai22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Hyperparameter Tuning on the Comparative Evaluation of Unsupervised Anomaly Detection Methods</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/odd21/</link>
+      <link>https://lorenzo-perini.github.io/publication/odd21/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/odd21/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/odd21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Ranking Stability Measure for Quantifying the Robustness of Anomaly Detection Methods</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/edml20/</link>
+      <link>https://lorenzo-perini.github.io/publication/edml20/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/edml20/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/edml20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml20/</link>
+      <link>https://lorenzo-perini.github.io/publication/ecml20/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml20/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ecml20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Class Prior Estimation in Active Positive and Unlabeled Learning</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ijcai20/</link>
+      <link>https://lorenzo-perini.github.io/publication/ijcai20/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ijcai20/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ijcai20/</guid>
       <description></description>
     </item>
     

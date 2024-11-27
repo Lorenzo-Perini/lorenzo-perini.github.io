@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Active Learning | Lorenzo Perini</title>
-    <link>https://people.cs.kuleuven.be/~lorenzo.perini/tags/active-learning/</link>
-      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/tags/active-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lorenzo-perini.github.io/tags/active-learning/</link>
+      <atom:link href="https://lorenzo-perini.github.io/tags/active-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Active Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <url>https://lorenzo-perini.github.io/img/icon-192.png</url>
       <title>Active Learning</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/tags/active-learning/</link>
+      <link>https://lorenzo-perini.github.io/tags/active-learning/</link>
     </image>
     
     <item>
       <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/phdthesis/</link>
+      <link>https://lorenzo-perini.github.io/publication/phdthesis/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/phdthesis/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/talk/aaai/</link>
+      <link>https://lorenzo-perini.github.io/talk/aaai/</link>
       <pubDate>Mon, 13 Feb 2023 13:30:00 +0100</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/talk/aaai/</guid>
+      <guid>https://lorenzo-perini.github.io/talk/aaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-domain Active Learning for Semi-supervised Anomaly Detection</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2022/</link>
+      <link>https://lorenzo-perini.github.io/publication/ecml2022/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ecml2022/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ecml2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Class Prior Estimation in Active Positive and Unlabeled Learning</title>
-      <link>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ijcai20/</link>
+      <link>https://lorenzo-perini.github.io/publication/ijcai20/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/publication/ijcai20/</guid>
+      <guid>https://lorenzo-perini.github.io/publication/ijcai20/</guid>
       <description></description>
     </item>
     
