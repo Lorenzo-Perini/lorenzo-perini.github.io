@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Lorenzo Perini</title>
+    <link>https://people.cs.kuleuven.be/~lorenzo.perini/project/</link>
+      <atom:link href="https://people.cs.kuleuven.be/~lorenzo.perini/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 10:15:14 +0200</lastBuildDate>
+    <image>
+      <url>https://people.cs.kuleuven.be/~lorenzo.perini/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://people.cs.kuleuven.be/~lorenzo.perini/project/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning (MACH)</title>
+      <link>https://people.cs.kuleuven.be/~lorenzo.perini/project/ml-journal/</link>
+      <pubDate>Mon, 24 Aug 2020 10:15:14 +0200</pubDate>
+      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/project/ml-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECML-PKDD (2020)</title>
+      <link>https://people.cs.kuleuven.be/~lorenzo.perini/project/ecml-pkdd20/</link>
+      <pubDate>Mon, 24 Aug 2020 10:11:16 +0200</pubDate>
+      <guid>https://people.cs.kuleuven.be/~lorenzo.perini/project/ecml-pkdd20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
